@@ -11,7 +11,7 @@ Ik begon als eerst te kijken hoe ik kon zorgen dat de gebruiker meer kon verkenn
 Het enige wat ik zelf nog miste is een leuke twist aan de quiz. Het onderwerp zelf is erg serieus, maar ik wou het luchtig houden. Ik besloot eraan toe te voegen dat de gebruiker ook zijn beste exotische dood kon zien. Het verhaal erachter is dat de gebruiker nog kan genieten van een laatste vakantie voordat hij/zij zelfmoord pleegt in het desbetreffende gebied.
 
 ### Stijl
-Nu ik de functionaliteiten bepaald had wilde ik de vormgeving opfrissen. Ik ging online zoeken naar een luchtige huisstijl en ik vroeg tips aan meerdere vormgevers. Uiteindelijk had ik een stijl ontworpen waar ik erg tevreden over was. Vooral in vergelijking met hoe het er origineel uit zag. Ik heb erg gebruik gemaakt van een luchtige rood/wit combinatie. Dit maakte het serieuze onderwerp wat minder deprimerend. De foto's voor het eindresultaat is gezet in een frame. Een soort vakantie foto. Het font is ook erg speels.
+Toen ik de functionaliteiten bepaald had wilde ik de vormgeving opfrissen. Ik ging online zoeken naar een luchtige huisstijl en ik vroeg tips aan meerdere vormgevers. Uiteindelijk had ik een stijl ontworpen waar ik erg tevreden over was. Vooral in vergelijking met hoe het er origineel uit zag. Ik heb erg gebruik gemaakt van een luchtige rood/wit combinatie. Dit maakte het serieuze onderwerp wat minder deprimerend. De foto's voor het eindresultaat is gezet in een frame. Een soort vakantie foto. Het font is ook erg speels.
 
 ### De visualisatie
 De link naar de visualisatie is:  https://marvelapp.com/b3cac09
