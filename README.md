@@ -27,6 +27,6 @@ De link naar de visualisatie is:  https://marvelapp.com/b3cac09
 * [Zelfmoord statistieken](https://www.mentalhelp.net/articles/suicide-statistics/)
 * [Waarom mensen zichzelf de schuld geven van alles](https://www.livescience.com/20739-depression-guilt-blame.html)
 * [Ouders en verantwoordelijkheid](https://www.opvoeden.nl/ouderschap/ik-als-ouder/verantwoordelijkheid/)
-
+* [Lijst van exotische zelfmoord voorbeelden](http://www.listal.com/list/10-most-popular-suicide-spots)
 
 [cover]: preview.png
